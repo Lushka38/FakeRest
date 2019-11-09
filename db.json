@@ -1,47 +1,7 @@
-{
+[{
   "id":1,
   "customer_name": "elaya",
-  "scans":  
-  [
-    {
-    "scan_type": "url",
-    "scan_id": "934890dzfss349",
-    "status": "pending_start"
-    },
-    {
-    "scan_type": "url",
-    "scan_id": "rrrrfesrrrccccccc3434",
-    "status": "proccesing_complete"
-    },
-    {
-    "scan_type": "url",
-    "scan_id": "dfsefse3dddrcddc4r4",
-    "status": "pending_start"
-    }
-  ]
-},
-{
-  "id":2,
-  "customer_name": "bobik",
-  "scans": [
-    {
-    "scan_type": "url",
-    "scan_id": "dfsefse3rdwssdcddc4r4",
-    "status": "pending_start"
-    }
-  ]
-},
-{
-  "id":3,
-  "customer_name": "bobik",
-  "scans": [
-    {
-    "scan_type": "url",
-    "scan_id": "ddddddfwsfefer44rdf",
-    "status": "proccesing_complete"
-    }
-  ]
-}
+}]
 
  
 
