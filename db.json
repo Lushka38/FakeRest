@@ -1,4 +1,4 @@
-{
+[{
   "customer_name": "elaya",
   "scans":  
   [
@@ -38,7 +38,7 @@
     "status": "proccesing_complete"
     }
   ]
-}
+}]
 
  
 
